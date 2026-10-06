@@ -17,7 +17,7 @@
   display: flex;
   align-items: center;
   gap: 40px;
-  min-height: 102px;
+  min-height: 101px;
 }
 .brand {
   display: flex;
