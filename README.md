@@ -1,3 +1,4 @@
+ HEAD
 HEAD
 # WebsiteRaucurua
 # Vườn Nhà — website bán rau củ quả
@@ -152,3 +153,6 @@ Sau build, mở **http://localhost:3001**. Express phục vụ cả giao diện 
 
 Giá, xuất xứ và số lượng sản phẩm ban đầu là dữ liệu minh họa. Chưa có quên mật khẩu, xác minh email, tải ảnh trực tiếp qua form, hóa đơn thuế, hoàn tiền và đối soát VNPay tự động. Chưa chạy thanh toán VNPay thật với tài khoản của bạn; cần cấu hình người bán và IPN công khai. Đây là bộ code chạy trên máy bạn, chưa xuất bản lên Internet. Khi triển khai HTTPS cần bật `COOKIE_SECURE=true`, cấu hình đúng tên miền, nơi lưu SQLite bền vững và sao lưu dữ liệu.
 >>>>>>> 22204cf (Initial commit)
+=======
+# Website_RauCuQua
+>>>>>>> d1167bdb8530f10ed91b92a78a031c2cdf6dfd6d
