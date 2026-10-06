@@ -8,7 +8,7 @@
 .topbar-inner {
   display: flex;
   justify-content: space-between;
-  gap: 21px;
+  gap: 22px;
 }
 .header {
   background: white;
